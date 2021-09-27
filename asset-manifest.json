@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reducer-example/static/css/main.bcd0bc0f.chunk.css",
+    "main.css": "/reducer-example/static/css/main.49dc2acf.chunk.css",
     "main.js": "/reducer-example/static/js/main.f7c19bce.chunk.js",
     "main.js.map": "/reducer-example/static/js/main.f7c19bce.chunk.js.map",
     "runtime-main.js": "/reducer-example/static/js/runtime-main.c152fad6.js",
@@ -8,14 +8,14 @@
     "static/js/2.bf6244d6.chunk.js": "/reducer-example/static/js/2.bf6244d6.chunk.js",
     "static/js/2.bf6244d6.chunk.js.map": "/reducer-example/static/js/2.bf6244d6.chunk.js.map",
     "index.html": "/reducer-example/index.html",
-    "static/css/main.bcd0bc0f.chunk.css.map": "/reducer-example/static/css/main.bcd0bc0f.chunk.css.map",
+    "static/css/main.49dc2acf.chunk.css.map": "/reducer-example/static/css/main.49dc2acf.chunk.css.map",
     "static/js/2.bf6244d6.chunk.js.LICENSE.txt": "/reducer-example/static/js/2.bf6244d6.chunk.js.LICENSE.txt",
     "static/media/fonts.scss": "/reducer-example/static/media/SourceSansPro-SemiBoldItalic.f035d6a1.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.c152fad6.js",
     "static/js/2.bf6244d6.chunk.js",
-    "static/css/main.bcd0bc0f.chunk.css",
+    "static/css/main.49dc2acf.chunk.css",
     "static/js/main.f7c19bce.chunk.js"
   ]
 }
