@@ -501,6 +501,8 @@ select {
       width: 70px;
       height: 45px;
       margin-left: 25px;
+      user-select: none;
+      background: #fff;
       &:nth-child(odd){
         border-radius: 0 25px 25px 0;
         margin-left: -2px;
