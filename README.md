@@ -1,2 +1,9 @@
-# reducer-example
-Simple example react hook - useReducer
+# useReducer
+Simple example of react hooks useReducer.
+
+Link: https://glebov-evgeny.github.io/reducer-example/
+
+## Features ##
+
+* Change background color onclick 
+
